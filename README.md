@@ -45,5 +45,9 @@ List of additional solutions that aren't coded into a specific language:
 
 ---
 > Document Version 0.1.3.1
+
+
 > *[Major.Minor.Build.Revision]*
+
+
 > Written with [StackEdit](https://stackedit.io/).
