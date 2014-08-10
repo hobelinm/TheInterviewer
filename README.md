@@ -31,11 +31,11 @@ Different solutions may be provided once they prove a different approach to a pr
 ```
 
 List of algorithms solution/common problem and its current implementation:
- C# | C++ | Java | Problem - Algorythm 
+
+C# | C++ | Java | Problem - Algorythm 
  -- | --- | ---- | -------------------
- - [x] | - [ ] | - [ ] | Linked Lists - Insertion
-> Linked List:
-> Insertion: [x] C# - [ ]C++ - [ ]Java
+[x] | [ ] | [ ] | Linked Lists - Insertion
+
 
 ---
 >Document Version 0.1.2.1
