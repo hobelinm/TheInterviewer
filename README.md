@@ -44,8 +44,8 @@ List of additional solutions that aren't coded into a specific language:
 > Solve algorithm X
 
 ---
-> Document Version 0.1.3.1
-
+> Document Version 0.1.4.1
 
 > *[Major.Minor.Build.Revision]*
+
 > Written with [StackEdit](https://stackedit.io/).
