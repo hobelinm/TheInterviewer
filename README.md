@@ -7,7 +7,7 @@ The idea of this project is to compile solutions to common interview problems in
 - Practicing programming
 - Get used to a new programming language by reviewing common usage
 
-Different solutions may be provided once they prove a different approach to a problem. Solutions can be optimized. Code must be explained and well documented to provide help for another students
+Different solutions may be provided once they prove a different approach to a problem. Solutions can be optimized. Code must be explained and well documented to provide help for another students. Projects are usually console applications unless the problem requires a different type of project
 
 ### File Structure
 
