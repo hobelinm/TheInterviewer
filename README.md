@@ -33,16 +33,21 @@ Different solutions may be provided once they prove a different approach to a pr
 List of algorithms solution/common problem and its current implementation
 
 
-| C<Sharp> | C++ | Java | Problem - Algorythm |
+| C<Sharp> | C++ | Java | Problem - Algorithm |
 | -- | --- | ---- | ------------------- |
 | Yes | No | No | Linked Lists - Insertion |
 
 ---
 
-| C# | C++ |
-| ------------- | ----------- |
-| Help      | Display the help window.|
-| Close     | Closes a window     |
+| C# | C++ | Java | Problem, algorithm |
+| ------------- | ----------- | ------- |
+| Yes      | *No* | Yes | Linked List - Insertion |
+| *No*     | *No* | *No* | Linked List - Removal |
+
+---
+
+List of additional solutions that aren't coded into a specific language:
+> Solve algorithm X
 
 ---
 >Document Version 0.1.2.1
