@@ -30,6 +30,11 @@ Different solutions may be provided once they prove a different approach to a pr
                 .
 ```
 
+List of algorithms solution/common problem and its current implementation:
+> Linked List:
+>> Insertion: [x] C# - [ ]C++ - [ ]Java
+
+---
 >Document Version 0.1.2.1
 *[Major.Minor.Build.Revision]*
 > Written with [StackEdit](https://stackedit.io/).
