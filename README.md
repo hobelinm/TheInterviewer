@@ -30,12 +30,12 @@ Different solutions may be provided once they prove a different approach to a pr
                 .
 ```
 
-List of algorithms solution/common problem and its current implementation:
+List of algorithms solution/common problem and its current implementation
 
 
-C# | C++ | Java | Problem - Algorythm 
- -- | --- | ---- | -------------------
-[x] | [ ] | [ ] | Linked Lists - Insertion
+| C# | C++ | Java | Problem - Algorythm |
+| -- | --- | ---- | ------------------- |
+| [x] | [ ] | [ ] | Linked Lists - Insertion |
 
 
 ---
