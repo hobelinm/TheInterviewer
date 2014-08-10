@@ -39,7 +39,7 @@ List of algorithms solution/common problem and its current implementation
 
 ---
 
-| Name | Description          |
+| C# | C++ |
 | ------------- | ----------- |
 | Help      | Display the help window.|
 | Close     | Closes a window     |
