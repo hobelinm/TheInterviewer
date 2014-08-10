@@ -33,7 +33,7 @@ Different solutions may be provided once they prove a different approach to a pr
 List of algorithms solution/common problem and its current implementation
 
 
-| C# | C++ | Java | Problem - Algorythm |
+| C<Sharp> | C++ | Java | Problem - Algorythm |
 | -- | --- | ---- | ------------------- |
 | Yes | No | No | Linked Lists - Insertion |
 
