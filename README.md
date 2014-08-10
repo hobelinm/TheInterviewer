@@ -37,6 +37,12 @@ List of algorithms solution/common problem and its current implementation
 | -- | --- | ---- | ------------------- |
 | Yes | No | No | Linked Lists - Insertion |
 
+---
+
+| Name | Description          |
+| ------------- | ----------- |
+| Help      | Display the help window.|
+| Close     | Closes a window     |
 
 ---
 >Document Version 0.1.2.1
