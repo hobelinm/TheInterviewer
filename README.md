@@ -1,17 +1,35 @@
 TheInterviewer
 ==============
 
-A compilation of inverview questions and their solutions grouped by language sets
+A compilation of interview questions and their solutions grouped by language sets
+The idea of this project is to compile solutions to common interview problems in different languages. This can be useful for:
+- Practicing for interviews
+- Practicing programming
+- Get used to a new programming language by reviewing common usage
 
-## File Structure
+Different solutions may be provided once they prove a different approach to a problem. Solutions can be optimized. Code must be explained and well documented to provide help for another students
 
- - README.MD
- -
-    ___
-   |   \____
-   |        |
-   |________|
-   Languages
+### File Structure
 
-Document Version 0.0.2.1
+```Cmd
+- README.MD
+-   ___
+   |   \____         ___
+   |        | ----  |   \____        
+   |________|   |   |        | ----  Projects.md
+   Languages    |   |________|   | 
+                |       C#       |   ___
+                |                |  |   \____
+                |   ___          |  |        |
+                L- |   \____     L  |________|
+                |  |        |    |   Project1
+                |  |________|    |
+                |      C++       .
+                .                . 
+                .                .
+                .
+```
+
+>Document Version 0.1.2.1
 *[Major.Minor.Build.Revision]*
+> Written with [StackEdit](https://stackedit.io/).
