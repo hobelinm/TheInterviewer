@@ -48,6 +48,4 @@ List of additional solutions that aren't coded into a specific language:
 
 
 > *[Major.Minor.Build.Revision]*
-
-
 > Written with [StackEdit](https://stackedit.io/).
