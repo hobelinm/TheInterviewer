@@ -40,7 +40,7 @@ List of algorithms solution/common problem and its current implementation
 ---
 
 | C# | C++ | Java | Problem or algorithm |
-| ------------- | ----------- | ------- |
+|:-------------:|:-----------:|:-------:|:--------:|
 | Yes      | **No** | Yes | Linked List .Insertion |
 | **No**     | **No** | **No** | Linked List .Removal |
 
