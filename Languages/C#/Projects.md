@@ -3,5 +3,7 @@
 # C# Algorithms and Common Problem Implementation
 This section contains solutions in C#
 
+> String . Reverse
+
 
 > Written with [StackEdit](https://stackedit.io/).
