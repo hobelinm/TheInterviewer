@@ -5,7 +5,5 @@ This section contains solutions in C#
 
 > String . Reverse
 
-> String . ReverseWord
-
 
 > Written with [StackEdit](https://stackedit.io/).

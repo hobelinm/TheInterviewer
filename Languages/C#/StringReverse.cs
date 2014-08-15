@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StringReverse
 {
-    class Program
+    class StringReverse
     {
         /// <summary>
         /// This code reverse a string 

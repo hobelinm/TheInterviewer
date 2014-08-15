@@ -20,9 +20,9 @@ Different solutions may be provided once they prove a different approach to a pr
    Languages    |   |________|   | 
                 |       C#       |   ___
                 |                |  |   \____
-                |   ___          |  |        |
-                L- |   \____     L  |________|
-                |  |        |    |   Project1
+                |   ___          L  |        |
+                |  |   \____     |  |________|
+                L  |        |    |   Project1
                 |  |________|    |
                 |      C++       .
                 .                . 
@@ -36,12 +36,18 @@ List of algorithms solution/common problem and its current implementation
 | C# | C++ | Java | Problem or algorithm |
 |:-------------:|:-----------:|:-------:|:--------:|
 | Yes | **No** | **No** | String .Reverse |
+| Yes | **No** | **No** | String .ReverseWord |
 | **No** | **No** | **No** | Linked List .Removal |
 
 ---
 
 List of additional solutions that aren't coded into a specific language:
 > Solve algorithm X
+
+---
+
+TODO: Work items
+> String .Reverse - Implement tests
 
 ---
 > Document Version 0.1.4.1
