@@ -7,4 +7,6 @@ This section contains solutions in C#
 
 > String . ReverseWord
 
+> String . ReversePolishNotation
+
 > Written with [StackEdit](https://stackedit.io/).

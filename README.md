@@ -37,6 +37,7 @@ List of algorithms solution/common problem and its current implementation
 |:-------------:|:-----------:|:-------:|:--------:|
 | Yes | **No** | **No** | String .Reverse |
 | Yes | **No** | **No** | String .ReverseWord |
+| Yes | **No** | **No** | String .ReversePolishNotation |
 | **No** | **No** | **No** | Linked List .Removal |
 
 ---
