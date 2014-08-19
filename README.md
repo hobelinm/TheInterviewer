@@ -38,6 +38,7 @@ List of algorithms solution/common problem and its current implementation
 | Yes | **No** | **No** | String .Reverse |
 | Yes | **No** | **No** | String .ReverseWord |
 | Yes | **No** | **No** | String .ReversePolishNotation |
+| Yes | **No** | **No** | String .LongestPalindrome |
 | **No** | **No** | **No** | LinkedList .Removal |
 
 ---
@@ -49,6 +50,12 @@ List of additional solutions that aren't coded into a specific language:
 
 TODO: Work items
 > String .Reverse - Implement tests
+
+> String .ReverseWord - Implement tests
+
+> String .ReversePolishNodation - Implement tests
+
+> String .LongestPalindrome - Implement tests 
 
 ---
 > Document Version 0.1.4.1

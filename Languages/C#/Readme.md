@@ -9,4 +9,6 @@ This section contains solutions in C#
 
 > String . ReversePolishNotation
 
+> String . LongestPalindrome
+
 > Written with [StackEdit](https://stackedit.io/).
